@@ -1,0 +1,28 @@
+#game-container {
+  text-align: center;
+  margin-top: 25px;
+}
+
+input {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#timer {
+  font-weight: bold;
+}
+
+#score {
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+}
+
+input[type="text"] {
+  text-align: center;
+}
